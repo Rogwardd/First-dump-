@@ -1,2 +1,1 @@
-# First-dump- 
-My 1st basic project 
+A simple Calculator that performs basic arithmetic operations! 
